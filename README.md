@@ -1,4 +1,5 @@
 # Python Tips & Ticks
+
 Learn from each other!
 
 ---
