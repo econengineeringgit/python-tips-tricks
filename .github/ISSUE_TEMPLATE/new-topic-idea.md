@@ -7,10 +7,20 @@ assignees: MizsakPeterEcon
 
 ---
 
-My topic idea is:
+## My topic idea is:
 
 
-Is there a deadline for the topic to be covered? (e.g. connected to a project)
+---
 
+### Is there a deadline for the topic to be covered? (e.g. connected to a project)
 
-I would like to present the topic myself? (yes/no)
+- [ ] Yes: 
+- [ ] No
+
+---
+
+### I would like to present the topic myself? (yes/no)
+
+- [ ] Yes
+- [ ] Yes, with some help
+- [ ] No
