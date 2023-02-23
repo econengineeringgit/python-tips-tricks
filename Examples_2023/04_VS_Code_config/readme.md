@@ -86,6 +86,8 @@ AI:
 Fun:
 
 * [Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
+* [touch-grass-reminder](https://marketplace.visualstudio.com/items?itemName=youraveragetechbro.touch-grass-reminder)
+* [Power mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode)
 
 ---
 
