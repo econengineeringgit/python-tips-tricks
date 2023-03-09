@@ -19,3 +19,5 @@ To be uploaded...
 2023.3: Decorators (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
 
 2023.4: VS Code config (by [Mizsak Peter](https://github.com/MizsakPeterEcon) & [Bencsik Soma](https://github.com/eConSomabencsik))
+
+2023.5: str operators (by [Laszlo Milan](https://github.com/laszmilan))
