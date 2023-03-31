@@ -6,9 +6,7 @@ Learn from each other!
 
 ## 2022
 
-To be uploaded...
-
----
+2022.1: str methods (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
 
 ## 2023
 
@@ -21,3 +19,5 @@ To be uploaded...
 2023.4: VS Code config (by [Mizsak Peter](https://github.com/MizsakPeterEcon) & [Bencsik Soma](https://github.com/eConSomabencsik))
 
 2023.5: str operators (by [Laszlo Milan](https://github.com/laszmilan))
+
+2023.6: regexes (by [Laszlo Milan](https://github.com/laszmilan))
