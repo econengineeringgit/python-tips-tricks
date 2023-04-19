@@ -20,4 +20,6 @@ Learn from each other!
 
 2023.5: str operators (by [Laszlo Milan](https://github.com/laszmilan))
 
-2023.6: regexes (by [Laszlo Milan](https://github.com/laszmilan))
+2023.6: Regular Expressions (by [Laszlo Milan](https://github.com/laszmilan))
+
+2023.7: Environments (by [Gyongyosi Matyas](https://github.com/gyongyosim) & [Mizsak Peter](https://github.com/MizsakPeterEcon))
