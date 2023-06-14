@@ -23,3 +23,9 @@ Learn from each other!
 2023.6: Regular Expressions (by [Laszlo Milan](https://github.com/laszmilan))
 
 2023.7: Environments (by [Gyongyosi Matyas](https://github.com/gyongyosim) & [Mizsak Peter](https://github.com/MizsakPeterEcon))
+
+2023.8 Performance monitoring (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
+
+2023.9 Parallelization (by [Bencsik Soma](https://github.com/eConSomabencsik))
+
+2023.10 PyAnsys + Dash (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
