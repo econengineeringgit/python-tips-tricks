@@ -29,3 +29,5 @@ Learn from each other!
 2023.9 Parallelization (by [Bencsik Soma](https://github.com/eConSomabencsik))
 
 2023.10 PyAnsys + Dash (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
+
+2023.11 GitHub features, git Q&A (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
