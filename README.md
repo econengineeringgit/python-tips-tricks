@@ -10,7 +10,7 @@ Learn from each other!
 
 ## 2023
 
-[2023.1](Examples_2023/01_magic_methods_with_statement/notes.md): Magic methods and `width` statement (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
+[2023.1](Examples_2023/01_magic_methods_with_statement/notes.md): Magic methods and `with` statement (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
 
 [2023.2](Examples_2023/02_lambda_mapping_decorator/readme.md): Lambda functions, mapping (by [Gyongyosi Matyas](https://github.com/gyongyosim))
 
@@ -31,3 +31,5 @@ Learn from each other!
 [2023.10](Examples_2023/10_PyAnsys_Dash/README.md): PyAnsys + Dash (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
 
 [2023.11](Examples_2023/11_GitHub_features/README.md) GitHub features (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
+
+[2023.12](Examples_2023/12_ms_office_in_python/README.md) MS office in Python (by [Laszlo Milan](https://github.com/laszmilan))
