@@ -17,3 +17,11 @@ The scripts provided in this project demonstrate how to:
 ## How to Run
 
 You can run each script separately. Make sure to run the Word and Excel scripts before the PowerPoint script, as the latter relies on the output of the former two.
+
+## Further Reading
+
+To understand more about how these libraries work and what you can do with them, check out their documentation:
+
+* [`python-docx` Documentation](https://python-docx.readthedocs.io/)
+* [`openpyxl` Documentation](https://openpyxl.readthedocs.io/)
+* [`python-pptx` Documentation](https://python-pptx.readthedocs.io/)
