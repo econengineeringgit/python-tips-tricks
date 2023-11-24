@@ -36,5 +36,5 @@ for item in my_object: # calls iter(my_object), which in turn calls my_object.__
 
 Resources:
 
-<https://www.fluentpython.com/extra/internals-of-sets-and-dicts/>
-<https://pythontutor.com/>
+* <https://www.fluentpython.com/extra/internals-of-sets-and-dicts/>
+* <https://pythontutor.com/>
