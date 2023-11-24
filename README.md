@@ -35,3 +35,9 @@ Learn from each other!
 [2023.12](Examples_2023/12_ms_office_in_python/README.md): MS office in Python (by [Laszlo Milan](https://github.com/laszmilan))
 
 [2023.13](Examples_2023/13_data_types_in-depth/README.md) In-depth look into Python datatypes (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
+
+[2023.14] PyQt5 (by [Soma Bencsik]())
+
+[2023.15] Requests, APIs (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
+
+[2023.16](Examples_2023/16_Testing/README.md) Testing (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
