@@ -36,7 +36,7 @@ Learn from each other!
 
 [2023.13](Examples_2023/13_data_types_in-depth/README.md) In-depth look into Python datatypes (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
 
-[2023.14] PyQt5 (by [Soma Bencsik]())
+[2023.14](Examples_2023/14_PyQt5/README.md) PyQt5 (by [Soma Bencsik](https://github.com/eConSomabencsik))
 
 [2023.15] Requests, APIs (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
 
