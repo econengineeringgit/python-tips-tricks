@@ -41,3 +41,5 @@ Learn from each other!
 [2023.15] Requests, APIs (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
 
 [2023.16](Examples_2023/16_Testing/README.md) Testing (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
+
+[2023.17](Examples_2023/17_PyGame/README.md) PyGame (by [Soma Bencsik](https://github.com/eConSomabencsik))
