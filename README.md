@@ -1,12 +1,19 @@
-# Python Tips & Ticks
+# Python Code Examples
 
-Learn from each other!
+This repository contains code examples for the Python meetings at [Econ Engineering](https://econengineering.com/en/).
+
+Join the meetings in person or online in Bitrix.
+
+Upcoming topics are tracked in this [project board](https://github.com/orgs/econengineeringgit/projects/2>) (only accessible for Econ employees).
+If you have a topic idea, feel free to add it to the board!
 
 ---
 
 ## 2022
 
 2022.1: str methods (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
+
+---
 
 ## 2023
 
@@ -43,3 +50,9 @@ Learn from each other!
 [2023.16](Examples_2023/16_Testing/README.md) Testing (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
 
 [2023.17](Examples_2023/17_PyGame/README.md) PyGame (by [Soma Bencsik](https://github.com/eConSomabencsik))
+
+---
+
+## 2024
+
+[2024.1](Examples_2024/01_Live_code_Refactoring/README.md) Live refactoring (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
