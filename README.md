@@ -57,4 +57,4 @@ If you have a topic idea, feel free to add it to the board!
 
 [2024.1](Examples_2024/01_Live_code_Refactoring/README.md) Live refactoring (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
 
-[2024.2](Examples_2024\02_Polars\README.md) Polars (by [Konczos Ignac](https://github.com/KonczosIgnacEcon))
+[2024.2](Examples_2024/02_Polars/README.md) Polars (by [Konczos Ignac](https://github.com/KonczosIgnacEcon))
