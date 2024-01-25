@@ -17,8 +17,8 @@ Source: Corey Schafer, [Youtube](https://www.youtube.com/playlist?list=PL-osiE80
   * The instance itself
   * passed automatically
 
-* __init__(self)
-  * super() [Detailed video on super](https://www.youtube.com/watch?v=X1PQ7zzltz4)
+* `__init__(self)`
+  * `super()` [Detailed video on super](https://www.youtube.com/watch?v=X1PQ7zzltz4)
 
 ## Part 2
 
@@ -26,19 +26,19 @@ Source: Corey Schafer, [Youtube](https://www.youtube.com/playlist?list=PL-osiE80
 
 ### Text representation
 
-When we call the print statement, Python first looks for the __str__ method defined in your class before falling back on the __repr__ method.
+When we call the print statement, Python first looks for the `__str__` method defined in your class before falling back on the `__repr__` method.
 
-* __repr__
-* __str__
+* `__repr__`
+* `__str__`
 
 ### Math
 
 [Python docs: Numeric types](https://docs.python.org/3/reference/datamodel.html#emulating-numeric-types)
 
-* __add__
-* __sub__
-* __mul__
-* __truediv__
+* `__add__`
+* `__sub__`
+* `__mul__`
+* `__truediv__`
 * ...
 
 ### Context manager
@@ -49,4 +49,4 @@ When we call the print statement, Python first looks for the __str__ method defi
 
 ### Getter_setter
 
-@property
+`@property` decorator
