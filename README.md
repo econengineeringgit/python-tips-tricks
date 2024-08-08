@@ -60,3 +60,9 @@ If you have a topic idea, feel free to add it to the board!
 [2024.2](Examples_2024/02_Polars/README.md) Polars (by [Konczos Ignac](https://github.com/KonczosIgnacEcon))
 
 [2024.3](Examples_2024/03_Pandas/README.md) Pandas (by [Konczos Ignac](https://github.com/KonczosIgnacEcon))
+
+[2024.4](Examples_2024/04_Design_patterns/README.md) Design patterns (by [Soma Bencsik](https://github.com/eConSomabencsik))
+
+[2024.5](Examples_2024/05_PyPrimeMesh/README.md) PyPrimeMesh from PyAnsys (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
+
+[2024.6](Examples_2024/06_Refactoring_fished_code/README.md) Refactoring: When is a code ready? (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
