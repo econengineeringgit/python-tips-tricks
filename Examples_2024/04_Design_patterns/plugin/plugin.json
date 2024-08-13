@@ -1,0 +1,11 @@
+{
+    "plugins":
+    [
+        {
+            "path": "./plugs/extra.py"
+        },
+        {
+            "path": "./plugs/extra2.py"
+        }
+    ]
+}
