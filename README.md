@@ -1,6 +1,7 @@
-# Python Code Examples
+# 👨‍💻 Python Tips & Tricks
 
 This repository contains code examples for the Python meetings at [Econ Engineering](https://econengineering.com/en/).
+View the project page at [Github Pages](https://econengineeringgit.github.io/python-tips-tricks/)
 
 Join the meetings in person or online in Bitrix.
 
