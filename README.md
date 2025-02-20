@@ -67,7 +67,17 @@ If you have a topic idea, feel free to add it to the board!
 
 [2024.6](2024/06_Refactoring_fished_code/README.md) Refactoring: When is a code ready? (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
 
-[...]
+[2024.7](2024/07_git_basic_examples/README.md) Git basic examples (by [Soma Bencsik](https://github.com/eConSomabencsik))
+
+[2024.8](2024/08_Real_life_examples/README.md) Real life examples (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
+
+[2024.9](2024/09_git_advanced_examples/README.md) Git advanced examples (rebase, worktree) (by [Soma Bencsik](https://github.com/eConSomabencsik))
+
+[2024.10](2024/10_Ansys_ACT_GUI/README.md) Ansys ACT GUI (by [Kristof Pali](https://github.com/kristofpali))
+
+[2024.11](2024/11_BMW_DevCon_summary/README.md) BMW DevCon summary (by [Mizsak Peter](https://github.com/MizsakPeterEcon))
+
+[2024.12](2024/12_Advent_of_Code/README.md) Advent of Code (by [Mizsak Peter](https://github.com/MizsakPeterEcon) and [Soma Bencsik](https://github.com/eConSomabencsik))
 
 ## 2025
 
