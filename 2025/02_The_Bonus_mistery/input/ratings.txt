@@ -1,0 +1,101 @@
+name,rating
+Lakatos Hegedűs Katalin,5
+Takács Tamás,2
+Takács Sárközi Tamás,2
+Dr. Dudás T. László,1
+Z. Horváth Péter,3
+Dr. Tóth Szabó Erika,1
+Dr. Pásztor L. Márton,2
+Kovács Istvánné Horváth Erzsébet,3
+Dr. Kis Bálintné,3
+Szűcsné Kiss Mónika,2
+Dr. A. Fülöp Andrea,1
+Kovácsné Dr. Szalai Katalin Luca,1
+Király Tiborné,2
+Dr. Kiss János Attila,2
+Tóth Nemes Krisztián,3
+Tóthné Boros Magdolna Anna,4
+M. Nagy Terézia,2
+Biró Zoltán,1
+Szabó Tóth Sándor,3
+Dr. Molnár Z. Anita,2
+Nagy Z. Iván,2
+Dr. K. Fülöp Ilona,3
+G. Németh Ildikó,3
+Dr. Oláhné Nagy Andrea Kinga,4
+Novákné Horváth Andrea,3
+Péterné Dr. Horváth Marianna Etelka,2
+Dr. Tóth Anita,1
+Varga Fazekas Márta,1
+Prof. Dr. B. Simon Bence,3
+Mészáros József,2
+Dr. G. Takács Gábor,4
+J. Balázs János,3
+Törökné Gulyás Rozália,3
+Nagy Gergely Zoltán,1
+Dr. Novák Jónás Alexandra,1
+Kocsis Brigitta Mária,2
+Dr. K. Takács Szilárd,4
+Kozma Ákosné,2
+Prof. Dr. Kocsisné Farkas Katalin,5
+Kovácsné Hegedűs Rozália,1
+Szabó Margit,4
+Dr. Magyar Tamás,4
+Dr. M. Péter Mária,2
+Váradi Szabolcs,1
+Dr. Juhász Jánosné Horváth Mária,3
+Dr. Szabó Kálmánné,2
+Tóth Ferencné,3
+G. Kiss József,2
+Dr. Nagy K. Mária,2
+Baloghné Dr. Borbély Hajnalka,1
+Márton G. Sándor,5
+Dr. Kovács Jánosné Tóth Ibolya,2
+Tóthné Balla Terézia,1
+Fazekas Horváth Judit,2
+Dr. Váradi Tiborné,2
+Z. Antal István,1
+Farkasné Kovács Anna Mária,1
+Dr. Varga Török Norbert,4
+Dr. Bálint Lászlóné,3
+Prof. Dr. E. Orosz Judit,4
+Dr. Kovácsné Török Eszter,2
+Gulyás Farkas Mária,2
+Dr. Tóth Adriánné,5
+Kovács Éva,1
+Dr. Barta Norbertné,5
+Váradi E. Eszter,5
+Farkasné Gáspár Piroska,3
+Nagyné Dr. Mészáros Mária Krisztina,5
+Török Péter,3
+Antalné Dr. Szalai Anna,2
+Orsós Gyulané,3
+Kovácsné Varga Terézia Mária,5
+Dr. Orsós I. Alexandra,4
+Dr. Szabó Máténé Balázs Rebeka,1
+Szabóné Kovács Anita,3
+Pataki Péterné,2
+Dr. R. Nagy Erika,1
+Kiss Jakab Zoltán,1
+Kiss Gulyás Sándor,4
+Dr. Máté Tamás Patrik,3
+Dr. Biró Szőke Ákos,4
+Dr. Horváthné Nagy Viktória Margit,1
+Dr. R. Horváth Erzsébet,4
+Molnár Balogh Bence,2
+Kocsis Bernadett Krisztina,4
+Nagy Jánosné,4
+Kovácsné Dr. Farkas Julianna Andrea,3
+Farkasné Dr. Balogh Ágnes,1
+Dr. Veres K. Júlia,1
+Dr. Kis K. Marianna,5
+Dr. Molnár Fekete Edit,4
+Lakatos Bélané,4
+Dr. Varga Ernőné,3
+Horváthné Dr. Lakatos Mária Anna,3
+Dr. Oláh Zsolt,2
+Dr. G. Tóth László,3
+Váradi Mária,2
+Szabó Nagy Gábor,3
+Fehér Simon András,1
+Horváthné Dr. Fekete Julianna,2

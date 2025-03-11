@@ -1,0 +1,101 @@
+name,department,salary
+Lakatos Hegedűs Katalin,Automotive simulations,1200000
+Takács Tamás,General simulations,950000
+Takács Sárközi Tamás,R&D,1150000
+Dr. Dudás T. László,Software support,660000
+Z. Horváth Péter,Automotive simulations,750000
+Dr. Tóth Szabó Erika,Software support,1130000
+Dr. Pásztor L. Márton,Software support,490000
+Kovács Istvánné Horváth Erzsébet,Software support,1040000
+Dr. Kis Bálintné,General simulations,470000
+Szűcsné Kiss Mónika,Software support,850000
+Dr. A. Fülöp Andrea,Software support,1180000
+Kovácsné Dr. Szalai Katalin Luca,R&D,1030000
+Király Tiborné,Automotive simulations,1140000
+Dr. Kiss János Attila,R&D,1280000
+Tóth Nemes Krisztián,Software support,1190000
+Tóthné Boros Magdolna Anna,Automotive simulations,610000
+M. Nagy Terézia,General simulations,410000
+Biró Zoltán,Software support,1020000
+Szabó Tóth Sándor,Software support,630000
+Dr. Molnár Z. Anita,Software support,920000
+Nagy Z. Iván,Automotive simulations,520000
+Dr. K. Fülöp Ilona,Software support,1070000
+G. Németh Ildikó,General simulations,620000
+Dr. Oláhné Nagy Andrea Kinga,R&D,640000
+Novákné Horváth Andrea,R&D,1090000
+Péterné Dr. Horváth Marianna Etelka,R&D,1220000
+Dr. Tóth Anita,R&D,430000
+Varga Fazekas Márta,R&D,880000
+Prof. Dr. B. Simon Bence,R&D,1230000
+Mészáros József,General simulations,730000
+Dr. G. Takács Gábor,Automotive simulations,1060000
+J. Balázs János,General simulations,1170000
+Törökné Gulyás Rozália,R&D,540000
+Nagy Gergely Zoltán,General simulations,460000
+Dr. Novák Jónás Alexandra,Software support,1030000
+Kocsis Brigitta Mária,Software support,360000
+Dr. K. Takács Szilárd,Software support,860000
+Kozma Ákosné,Software support,950000
+Prof. Dr. Kocsisné Farkas Katalin,R&D,440000
+Kovácsné Hegedűs Rozália,R&D,900000
+Szabó Margit,R&D,960000
+Dr. Magyar Tamás,R&D,1140000
+Dr. M. Péter Mária,General simulations,1160000
+Váradi Szabolcs,Software support,860000
+Dr. Juhász Jánosné Horváth Mária,Software support,
+Dr. Szabó Kálmánné,Automotive simulations,
+Tóth Ferencné,R&D,1100000
+G. Kiss József,Automotive simulations,900000
+Dr. Nagy K. Mária,Automotive simulations,1230000
+Baloghné Dr. Borbély Hajnalka,Automotive simulations,1150000
+Márton G. Sándor,Automotive simulations,700000
+Dr. Kovács Jánosné Tóth Ibolya,R&D,730000
+Tóthné Balla Terézia,Automotive simulations,1000000
+Fazekas Horváth Judit,R&D,
+Dr. Váradi Tiborné,Automotive simulations,1290000
+Z. Antal István,General simulations,1050000
+Farkasné Kovács Anna Mária,R&D,840000
+Dr. Varga Török Norbert,Software support,400000
+Dr. Bálint Lászlóné,R&D,480000
+Prof. Dr. E. Orosz Judit,General simulations,490000
+Dr. Kovácsné Török Eszter,R&D,600000
+Gulyás Farkas Mária,R&D,1160000
+Dr. Tóth Adriánné,R&D,630000
+Kovács Éva,Automotive simulations,1070000
+Dr. Barta Norbertné,Automotive simulations,900000
+Váradi E. Eszter,Software support,1200000
+Farkasné Gáspár Piroska,General simulations,720000
+Nagyné Dr. Mészáros Mária Krisztina,Software support,1180000
+Török Péter,R&D,600000
+Antalné Dr. Szalai Anna,Automotive simulations,850000
+Orsós Gyulané,R&D,
+Kovácsné Varga Terézia Mária,Automotive simulations,870000
+Dr. Orsós I. Alexandra,R&D,1120000
+Dr. Szabó Máténé Balázs Rebeka,General simulations,790000
+Szabóné Kovács Anita,R&D,910000
+Pataki Péterné,R&D,900000
+Dr. R. Nagy Erika,General simulations,500000
+Kiss Jakab Zoltán,R&D,680000
+Kiss Gulyás Sándor,Automotive simulations,790000
+Dr. Máté Tamás Patrik,Software support,780000
+Dr. Biró Szőke Ákos,Automotive simulations,500000
+Dr. Horváthné Nagy Viktória Margit,General simulations,340000
+Dr. R. Horváth Erzsébet,Automotive simulations,680000
+Molnár Balogh Bence,Automotive simulations,
+Kocsis Bernadett Krisztina,R&D,700000
+Nagy Jánosné,R&D,870000
+Kovácsné Dr. Farkas Julianna Andrea,General simulations,620000
+Farkasné Dr. Balogh Ágnes,Automotive simulations,950000
+Dr. Veres K. Júlia,Software support,1030000
+Dr. Kis K. Marianna,Software support,780000
+Dr. Molnár Fekete Edit,R&D,730000
+Lakatos Bélané,General simulations,620000
+Dr. Varga Ernőné,R&D,480000
+Horváthné Dr. Lakatos Mária Anna,Automotive simulations,1140000
+Dr. Oláh Zsolt,Software support,490000
+Dr. G. Tóth László,Software support,800000
+Váradi Mária,Automotive simulations,910000
+Szabó Nagy Gábor,General simulations,1080000
+Fehér Simon András,R&D,1230000
+Horváthné Dr. Fekete Julianna,Software support,1200000
